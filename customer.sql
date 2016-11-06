@@ -1,2 +1,2 @@
-select * from customer limit 10
+select * from customer limit 5
 
